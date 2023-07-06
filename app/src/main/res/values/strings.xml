@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamenC2</string>
+    <string name="namelogin">Crea una cuenta</string>
+    <string name="google_api_key" translatable="false">AIzaSyD7ELypNoRCRcYRKzwLuuasx40RaRyj6XE</string>
+</resources>
